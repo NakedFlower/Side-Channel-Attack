@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naked\\source\\repos\\AES_secondorder_cpa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDA8B57-5FCB-4E7A-9765-B4E2075B967E}|AES_secondorder_cpa\\AES_secondorder_cpa.vcxproj|C:\\Users\\naked\\source\\repos\\AES_secondorder_cpa\\AES_secondorder_cpa\\aes_2cpa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EDA8B57-5FCB-4E7A-9765-B4E2075B967E}|AES_secondorder_cpa\\AES_secondorder_cpa.vcxproj|solutionrelative:AES_secondorder_cpa\\aes_2cpa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aes_2cpa.c",
+              "DocumentMoniker": "C:\\Users\\naked\\source\\repos\\AES_secondorder_cpa\\AES_secondorder_cpa\\aes_2cpa.c",
+              "RelativeDocumentMoniker": "AES_secondorder_cpa\\aes_2cpa.c",
+              "ToolTip": "C:\\Users\\naked\\source\\repos\\AES_secondorder_cpa\\AES_secondorder_cpa\\aes_2cpa.c",
+              "RelativeToolTip": "AES_secondorder_cpa\\aes_2cpa.c",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-05T03:45:23.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
