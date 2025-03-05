@@ -1,0 +1,17 @@
+﻿  Aria_self.c
+  Masked_Aria.c
+  코드를 생성하고 있습니다...
+C:\Users\naked\source\repos\Aria\Aria\Masked_Aria.c(295,9): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\naked\source\repos\Aria\Aria\Masked_Aria.c(377,11): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\naked\source\repos\Aria\Aria\Masked_Aria.c(369,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+Masked_Aria.obj : error LNK2005: ARIA_test이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: Crypt이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: DL이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: EncKeySetup이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: RotXOR이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: main이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: printBlock이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: printBlockOfLength이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: S이(가) Aria_self.obj에 이미 정의되어 있습니다.
+Masked_Aria.obj : error LNK2005: KRK이(가) Aria_self.obj에 이미 정의되어 있습니다.
+C:\Users\naked\source\repos\Aria\x64\Debug\Aria.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
