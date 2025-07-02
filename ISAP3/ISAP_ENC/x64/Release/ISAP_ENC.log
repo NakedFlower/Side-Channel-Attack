@@ -1,0 +1,4 @@
+﻿  ISAP_ENC.c
+ISAP_ENC.obj : error LNK2001: 확인할 수 없는 외부 기호 crypto_aead_decrypt
+ISAP_ENC.obj : error LNK2001: 확인할 수 없는 외부 기호 crypto_aead_encrypt
+C:\Users\ATIV\source\repos\ISAP_ENC\x64\Release\ISAP_ENC.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

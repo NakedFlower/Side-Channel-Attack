@@ -1,0 +1,3 @@
+﻿  ISAP_ENC.c
+C:\Users\ATIV\source\repos\ISAP_ENC\ISAP_ENC\isap.h(1,13): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+C:\Users\ATIV\source\repos\ISAP_ENC\ISAP_ENC\isap.h(62,1): fatal error C1020: 예기치 않은 #endif입니다.
