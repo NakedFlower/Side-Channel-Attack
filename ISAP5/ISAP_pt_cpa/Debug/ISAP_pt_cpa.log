@@ -1,0 +1,8 @@
+﻿  isap_pt_cpa.c
+C:\Users\ATIV\source\repos\ISAP_pt_cpa\ISAP_pt_cpa\isap_pt_cpa.c(95,18): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\ISAP_pt_cpa\ISAP_pt_cpa\isap_pt_cpa.c(92,29): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\ISAP_pt_cpa\ISAP_pt_cpa\isap_pt_cpa.c(92,26): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\ISAP_pt_cpa\ISAP_pt_cpa\isap_pt_cpa.c(92,16): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\ISAP_pt_cpa\ISAP_pt_cpa\isap_pt_cpa.c(96,64): warning C4101: 'maxkey' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\ISAP_pt_cpa\ISAP_pt_cpa\isap_pt_cpa.c(96,59): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+  ISAP_pt_cpa.vcxproj -> C:\Users\ATIV\source\repos\ISAP_pt_cpa\Debug\ISAP_pt_cpa.exe
