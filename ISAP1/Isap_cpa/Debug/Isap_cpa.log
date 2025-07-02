@@ -1,0 +1,5 @@
+﻿  Isap_cpa.c
+C:\Users\ATIV\source\repos\Isap_cpa\Isap_cpa\Isap_cpa.c(162,51): warning C4133: '=': 'float **'과(와) 'double **' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Isap_cpa\Isap_cpa\Isap_cpa.c(191,12): warning C4047: '함수': 'const uint8_t *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ATIV\source\repos\Isap_cpa\Isap_cpa\Isap_cpa.c(191,11): warning C4024: 'isap_enc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\ATIV\source\repos\Isap_cpa\Isap_cpa\Isap_cpa.c(237,14): error C2088: '[': union에 맞지 않습니다.
