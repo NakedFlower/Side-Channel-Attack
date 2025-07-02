@@ -1,0 +1,9 @@
+﻿  aes_2cpa.c
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(160,18): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(157,29): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(157,26): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(157,16): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(161,63): warning C4101: 'maxkey' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(161,58): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+C:\Users\ATIV\source\repos\AES_secondorder_cpa\AES_secondorder_cpa\aes_2cpa.c(288,33): warning C4101: 'Cut1' :참조되지 않은 지역 변수입니다.
+  AES_secondorder_cpa.vcxproj -> C:\Users\ATIV\source\repos\AES_secondorder_cpa\Debug\AES_secondorder_cpa.exe
